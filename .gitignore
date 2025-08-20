@@ -1,3 +1,7 @@
+#lama model is to big to push  so pushing it without it
+models/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
